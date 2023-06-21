@@ -48,7 +48,7 @@ namespace CapaDatos
         }
         public static Conexion getInstancia()
         {
-            if(Con== null)
+            if(Con == null)
             {
                 Con = new Conexion();
             }
